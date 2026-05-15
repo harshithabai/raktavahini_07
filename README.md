@@ -30,7 +30,7 @@ Build System: Gradle Kotlin DSL (.kts)
 📦 Installation & Setup
 Clone the repository:
 
-git clone https://github.com/vijaykumarGK-Developer/rakthavahini.git
+git clone https://github.com/harshithabai/RaktaVahini7.git
 Firebase Configuration:
 
 Place your google-services.json in the app/ directory.
